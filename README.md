@@ -26,16 +26,44 @@ transmitter gain, receiver gain, radar frequency, radar cross section, and minim
 
 
    ___Algorithm__:
-   
+   Start the program.
+
+Import the required Python libraries (Example: math or numpy for calculations).
+
+Define all the radar input parameters, such as:
+
+Transmitted power
+
+Transmitter gain
+
+Receiver gain
+
+Radar frequency
+
+Radar cross-section
+
+Minimum detectable power
+
+Calculate the wavelength from the given radar frequency.
+
+Create a function that implements the radar range calculation using the input parameters.
+
+Call the function with the defined parameter values.
+
+Compute the maximum radar range inside the function.
+
+Display the final calculated maximum range as output.
+
+End the program.
 
 
-
-
-
+__TABULATION__:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f084d9e8-60f9-4c49-ad62-495b94c0a831" />
 
 
    __Output__:
    
+<img width="474" height="1245" alt="radar range" src="https://github.com/user-attachments/assets/cc7a05d1-d5ca-4aba-ab35-2dc16075e227" />
 
 
 
@@ -45,6 +73,7 @@ transmitter gain, receiver gain, radar frequency, radar cross section, and minim
 
    __Result__:
    
+<img width="1528" height="1528" alt="image" src="https://github.com/user-attachments/assets/db780a31-7465-4c7c-827f-8107828541eb" />
 
 
 
